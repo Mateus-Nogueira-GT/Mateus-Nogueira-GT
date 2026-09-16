@@ -57,7 +57,7 @@ Parte do que construo é sob contrato e segue em repositório privado. O que pos
 
 ### Contato
 
-Instagram — [@mateus.nnogueira](https://instagram.com/mateus.nnogueira)
+[LinkedIn](https://www.linkedin.com/in/mateus-nogueira-10b519281/) · [Instagram](https://instagram.com/mateus.nnogueira)
 
 Atendo empresas em projetos sob medida e acompanho profissionais em mentoria
 individual de IA. Se quiser conversar sobre um projeto, me chama.
