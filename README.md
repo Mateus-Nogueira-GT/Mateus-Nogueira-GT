@@ -23,6 +23,7 @@ completos em volta deles. Começo entendendo o negócio; a tecnologia vem depois
 | Projeto | O que resolve | Stack |
 | --- | --- | --- |
 | **[capcut-mcp-mac](https://github.com/Mateus-Nogueira-GT/capcut-mcp-mac)** | Edição de vídeo por linguagem natural: transcreve, corta, legenda e posiciona textos no CapCut. Transcrição roda local, nada sai da máquina. | Python · MCP · Whisper · FFmpeg |
+| **[claude-code-video-kit](https://github.com/Mateus-Nogueira-GT/claude-code-video-kit)** | Kit de 6 skills que transforma o Claude Code num editor de vídeo: edita reels falados com B-roll na palavra certa, sincroniza cortes na batida da música, recorta objetos, traduz vídeos e revisa antes de entregar. Instala com um comando. | Claude Code · Remotion · Whisper · Python · Swift |
 | **[n8n-mcp-server](https://github.com/Mateus-Nogueira-GT/n8n-mcp-server)** | Criar, auditar e diagnosticar workflows do n8n conversando. Traz templates de chatbot WhatsApp, RAG e classificação. | Python · MCP · FastAPI |
 | **[nba-projeto](https://github.com/Mateus-Nogueira-GT/nba-projeto)** | Análise de jogos da NBA com motor de regras versionado em YAML. Decisões registradas em ADRs, specs e runbooks. | Next.js · TypeScript · Drizzle · Vitest |
 | **[CalorIA](https://github.com/Mateus-Nogueira-GT/calorIA-Frontend)** | Contagem de calorias a partir de uma foto do prato. | React Native · Expo · TypeScript |
